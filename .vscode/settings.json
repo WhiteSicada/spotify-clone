@@ -1,0 +1,25 @@
+{
+	"workbench.colorTheme": "Default Dark+",
+	"editor.formatOnSave": true,
+	"workbench.editor.highlightModifiedTabs": true,
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 1000,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+	"tabnine.experimentalAutoImports": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"security.workspace.trust.untrustedFiles": "open",
+	"prettier.useTabs": true,
+	"html.format.wrapAttributes": "force-aligned",
+	"editor.renameOnType": true,
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"editor.mouseWheelZoom": true,
+	"editor.wordWrap": "on",
+	"editor.fontSize": 16
+}
