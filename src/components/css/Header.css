@@ -3,6 +3,10 @@
 	justify-content: space-between;
 	margin-bottom: 30px;
 }
+.search__input {
+	outline: none;
+	padding-left: 15px;
+}
 
 .header__right {
 	display: flex;
